@@ -172,3 +172,4 @@ class SaveYaUpdateFragment : Fragment(R.layout.fragment_save_ya_update) {
         }
     }
 }
+
